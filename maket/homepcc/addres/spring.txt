@@ -1,0 +1,4 @@
+https://habr.com/ru/post/495010/ -spring server
+https://spring.io/projects/spring-boot -spring doc
+https://habr.com/ru/post/435144/ -spring boot 5pr Angelina
+https://tproger.ru/translations/building-messenger/ -nodejs chat messager
